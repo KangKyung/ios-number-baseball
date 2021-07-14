@@ -1,64 +1,19 @@
-## iOS 커리어 스타터 캠프
+## ios-number-baseball
 
-### 숫자야구 프로젝트 저장소
+![ios-number-baseball](https://user-images.githubusercontent.com/38858863/125550593-145ea196-9288-484d-911b-25f5f59bd1c5.gif)
 
-- 이 저장소를 자신의 저장소로 fork하여 프로젝트를 진행합니다
+## Pull Request
 
-___
+- [Step1](https://github.com/yagom-academy/ios-number-baseball/pull/4)
+- [Step2](https://github.com/yagom-academy/ios-number-baseball/pull/22)
 
-### 우리 팀만의 규칙
+## 팀원
 
-연락이 어려운 시간 : DM남기기!
+- [KangKyung](https://github.com/KangKyung)
+- [Wody](https://github.com/Wody95)
 
-- 평일 18:00 ~
-- 수요일, 주말 전부
+## 프로젝트 수행
 
-TIL, 일일회고
-
-- 당일 내로는 무조건 업로드하기
-
-규칙
-
-- 함께 성실히 프로젝트를 진행해 와서, 비교분석 하기
-
-___
-
-### 스크럼
-
-- 스크럼이란 모든 팀원이 모여 매일 짧게 진행 상황을 공유하는 것을 말해요.
-
-시간
-
-- 월, 화, 목, 금 09:00~09:30
-
-주제
-
-- 어제한 일
-- 오늘한 일
-- 컨디션
-- 기술적 이슈
-
-___
-
-### 프로젝트
-
-- 프로젝트 협업과 관련된 규칙을 정해요.
-- 브랜치 이름규칙
-
-    2-kangkyung
-    2-wody
-
-- 커밋 규칙
-
-    날짜/수정파일/수정내용
-
-___
-
-
-## 타임라인
-
-- 월 - 구구단 코드 리뷰 & 짝 프로그래밍
-- 화 - 깃 사용법 & 숫자야구 STEP 1 PR
-- 수 - 공식 휴일 이지만, STEP 2 찍어먹어보기
-- 목 - CS지식 & STEP 2 PR
-- 금 - 옵셔널 & 숫자야구 STEP 2 PR
+- 기간: 2021.02.23 ~ 2021.02.26
+- [Ground Rule](https://github.com/KangKyung/ios-number-baseball/blob/main/Ground%20Rule.md)
+- [TWL-2021.02.26](https://github.com/KangKyung/ios-number-baseball/blob/main/TWL-2021.02.26.md)
