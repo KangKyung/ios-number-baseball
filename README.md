@@ -2,7 +2,7 @@
 
 ![ios-number-baseball](https://user-images.githubusercontent.com/38858863/125550593-145ea196-9288-484d-911b-25f5f59bd1c5.gif)
 
-## Pull Request
+## Code Review
 
 - [Step1](https://github.com/yagom-academy/ios-number-baseball/pull/4)
 - [Step2](https://github.com/yagom-academy/ios-number-baseball/pull/22)
